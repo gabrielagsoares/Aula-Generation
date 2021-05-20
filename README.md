@@ -1,2 +1,2 @@
-# Aula-Generation
-exercícios desenvolvidos em aula
+# Generation Bloco1
+Exercícios desenvolvidos durante o primeiro bloco do bootcamp.
